@@ -1,0 +1,22 @@
+{
+  "/maxDepthSld": {
+    "min": -50000,
+    "max": -125000,
+    "value":-115000
+  },
+  "/acc": {
+    "min": 500,
+    "max": 2500,
+    "value": 1850
+  },
+  "/caliDepthSld": {
+    "min": 15000,
+    "max": -15000,
+    "value": 4000
+  },
+  "/spd": {
+    "min": 500,
+    "max": 2000,
+    "value": 725
+  }
+}
